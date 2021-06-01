@@ -1,0 +1,5 @@
+color template: lavender
+background: light colors
+color: blue
+type: vectors 
+
