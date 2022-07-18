@@ -1,2 +1,2 @@
 View project at
-https://palash-bajpai.github.io/mysite_palash/
+https://palash-bajpai.github.io/Sample-Portfolio/
