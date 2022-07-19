@@ -35,13 +35,14 @@
 
 
 
-## Run Locally
+## To Run react version
 
 Clone the project
 
 ```bash
-  https://github.com/PALASH-BAJPAI/PokedeX.git
+  https://github.com/PALASH-BAJPAI/Sample-Portfolio.git
 ```
+And switch to reactImplementation branch
 
 Go to the project directory
 
@@ -61,19 +62,6 @@ Run your app locally
   npm start
 ```
 
-
-## Screenshots
-
-<a href="https://drive.google.com/uc?export=view&id=1yxUvqlKagwMwkjrMYhnSU2EW7D8uYgAN"><img src="https://drive.google.com/uc?export=view&id=1yxUvqlKagwMwkjrMYhnSU2EW7D8uYgAN" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
-
-<a href="https://drive.google.com/uc?export=view&id=1Wa3XP2PprWUfzCfnMM1GkU4CMOL0sE26"><img src="https://drive.google.com/uc?export=view&id=1Wa3XP2PprWUfzCfnMM1GkU4CMOL0sE26" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
-
-<a href="https://drive.google.com/uc?export=view&id=1by6IMRfjXw71rdunKIpWnxiU7ScYq3J0"><img src="https://drive.google.com/uc?export=view&id=1by6IMRfjXw71rdunKIpWnxiU7ScYq3J0" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
-
-
-## 🛠 Skills
-
-Made with ❤️ in React
 
 
 ## Feedback
