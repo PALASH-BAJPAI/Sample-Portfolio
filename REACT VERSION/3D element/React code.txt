@@ -1,0 +1,17 @@
+Im
+from '@splinetool/react-spline';
+
+export default function App() {
+  return (
+    <Spline scene="https://prod.spline.design/HDFxPLmd0vUlOwrg/scene.splinecode" />
+  );
+}
+
+IFRAME
+<iframe src='https://my.spline.design/background-0aefc88e7f4ca89e3e3e20c51215d4e3/' frameborder='0' width='100%' height='100%'></iframe>
+
+LINK
+https://my.spline.design/background-0aefc88e7f4ca89e3e3e20c51215d4e3/
+
+REACT CODE
+
